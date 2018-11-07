@@ -1,5 +1,5 @@
 ﻿<%@ Control Language="vb" AutoEventWireup="true" CodeFile="ComboUC.ascx.vb" Inherits="ComboUC" %>
-<%@ Register Assembly="DevExpress.Web.ASPxEditors.v12.1, Version=12.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.Web.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 	Namespace="DevExpress.Web.ASPxEditors" TagPrefix="dx" %>
 <script type="text/javascript">
 	var evt = document.createEvent("Event");
