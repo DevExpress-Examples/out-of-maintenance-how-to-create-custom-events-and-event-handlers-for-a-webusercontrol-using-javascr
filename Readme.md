@@ -2,9 +2,9 @@
 *Files to look at*:
 
 * [ComboUC.ascx](./CS/WebSite/ComboUC.ascx) (VB: [ComboUC.ascx](./VB/WebSite/ComboUC.ascx))
-* [ComboUC.ascx.cs](./CS/WebSite/ComboUC.ascx.cs) (VB: [ComboUC.ascx](./VB/WebSite/ComboUC.ascx))
+* [ComboUC.ascx.cs](./CS/WebSite/ComboUC.ascx.cs) (VB: [ComboUC.ascx.vb](./VB/WebSite/ComboUC.ascx.vb))
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to create custom events and event handlers for a WebUserControl using JavaScript
 
