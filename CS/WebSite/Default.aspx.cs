@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 public partial class _Default : System.Web.UI.Page
 {
-    protected void cmbox2_Callback(object sender, DevExpress.Web.ASPxClasses.CallbackEventArgsBase e)
+    protected void cmbox2_Callback(object sender, DevExpress.Web.CallbackEventArgsBase e)
     {
         AccessDataSource1.SelectParameters["CategoryID"].DefaultValue = e.Parameter;
         cmbox2.DataBind();
